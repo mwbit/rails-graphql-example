@@ -1,6 +1,6 @@
 # GraphQL in Rails
 
-Simple Rails/GraphQL Application example
+Simple Rails/GraphQL Application example.
 
 
 ### Tools
