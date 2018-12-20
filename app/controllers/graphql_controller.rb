@@ -15,8 +15,7 @@ class GraphqlController < ApplicationController
 
   private
 
-  # Handle form data, JSON body, or a blank value
-  def ensure_hash(ambiguous_param)
+   def ensure_hash(ambiguous_param)
     case ambiguous_param
     when String
       if ambiguous_param.present?
